@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m worked on — Backend services and enterprise ERP applications using Java & Spring Boot<br>🤝 I’m looking to collaborate on — Backend, API, and AI-powered projects<br>🛠️ I’m looking for help with — Building scalable backend systems and improving system design skills<br>🌱 I’m currently learning — Generative AI, LLMs, RAG, Apache Spark & Databricks<br>💬 Ask me about — Java, Spring Boot, REST APIs, SQL, Python & backend development<br>⚡ Fun fact — I started my career as a backend intern and progressed to a permanent Software Developer role at Vitwo Technologies.
+🔭 I’m worked on — Backend services and enterprise ERP applications using Java & Spring Boot<br>🤝 I’m looking to collaborate on — Backend, API, and AI-powered projects<br>🛠️ I’m looking for help with — Building scalable backend systems and improving system design skills<br>🌱 I’m currently learning — Generative AI, LLMs, RAG, Apache Spark & Databricks<br>💬 Ask me about — Java, Spring Boot, REST APIs, SQL, Python & backend development<br>⚡ Fun fact — I started my career as a AI intern in Elite Tech and progressed to a permanent Software Development Engineer role at Vitwo Technologies.
 
 
 ## 🌐 Socials:
